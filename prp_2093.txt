@@ -1,6 +1,3 @@
-# CS610-DSA-PROJECT
-Repository for DSA (Data Structure and Algorithms) Project
-
 HIMANSHU PATEL cs610 2093 prp
 
 HANDOUT 2 ADHERED; NO BUGS TO REPORT
